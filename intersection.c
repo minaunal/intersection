@@ -1,3 +1,5 @@
+//Mina Ünal
+
 #include <stdio.h>
 
 struct node{
